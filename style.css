@@ -1,0 +1,5 @@
+@import url('/styles/reset.css');
+
+header {
+  margin-bottom: 1rem;
+}
